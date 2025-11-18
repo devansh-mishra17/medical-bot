@@ -1,0 +1,8 @@
+flask==2.3.3
+langchain==0.0.346
+chromadb==0.4.15
+sentence-transformers==2.2.2
+pypdf2==3.0.1
+python-dotenv==1.0.0
+accelerate==0.21.0
+torch==2.0.1
